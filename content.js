@@ -21,14 +21,10 @@ function addCopyButton(element) {
     }
   });
 
-  // Create a container for the button
-  const container = document.createElement("div");
-  container.className = "code-container";
-
-  // Wrap the <code> element inside the container
-  element.parentNode.insertBefore(container, element);
-  container.appendChild(element);
-  container.appendChild(button);
+  // Position the button within the <pre> element
+  const preElement = element.parentNode;
+  preElement.style.position = 'relative'; // Ensure <pre> is relatively positioned
+  preElement.appendChild(button);
 }
 
 // Find all <code> elements inside <pre> elements and add the copy button
