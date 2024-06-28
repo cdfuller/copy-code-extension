@@ -2,6 +2,9 @@
 
 A browser extension that adds a "Copy" button for `<code>` blocks, allowing easy code snippet copying.
 
+<img width="659" alt="image" src="https://github.com/cdfuller/copy-code-extension/assets/2310581/4bc7b2e5-653e-4120-af1d-5bc3ad2d1435">
+
+
 ## Installation
 
 ### For Chrome
