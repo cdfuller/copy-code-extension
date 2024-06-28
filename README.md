@@ -36,7 +36,3 @@ A browser extension that adds a "Copy" button for `<code>` blocks, allowing easy
 ## Usage
 
 Once installed, the extension will automatically add a "Copy" button to all `<code>` blocks on any web page you visit. Simply click the "Copy" button to copy the code snippet to your clipboard.
-
----
-
-Feel free to adjust the README content as needed to better fit your extension and its specific instructions.
