@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Copy Code Button",
   "version": "0.1.0",
-  "description": "Adds a copy button to <pre> and <code> blocks",
+  "description": "Adds a copy button to <code> blocks",
   "permissions": [
     "activeTab",
     "clipboardWrite"
